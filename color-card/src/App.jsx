@@ -1,18 +1,10 @@
-import Color from "./campont/Color"
-import Prodect1 from "./campont/Prodect1"
-
-
-
-
-
+import React from 'react'
+import Prodect1 from './component/Prodect1'
 
 function App() {
-  
-
   return (
     <>
-{/* <Color/> */}
-<Prodect1/>
+      <Prodect1/>
     </>
   )
 }

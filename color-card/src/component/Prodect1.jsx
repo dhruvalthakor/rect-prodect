@@ -26,15 +26,6 @@ function maincart(prodect) {
   
 }
 
-
-
-
-
-
-
-
-
-
   const cart = ProductData.map((prodect) => (
     maincart(prodect)
   ));
